@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Lorcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorcanmc&theme=tokyonight&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorcanmc&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
