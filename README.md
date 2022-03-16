@@ -2,6 +2,8 @@
 
 [![Lorcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorcanmc)](https://github.com/lorcanmc/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorcanmc&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 <!--
 **lorcanmc/lorcanmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
